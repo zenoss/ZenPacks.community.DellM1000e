@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.DellM1000e"
 VERSION = "1.0"
 AUTHOR = "Florian Deckert"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.DellM1000e']
 INSTALL_REQUIRES = []
